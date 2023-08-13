@@ -1,4 +1,4 @@
-# Print_Numers_Using_Java
+# Print_Numbers_Using_Java
 Programming Techniques 
 Java has been used by numerous companies and organizations for various purposes, including web development, software applications, mobile apps, server-side development, and more. Some notable companies that have used Java include:
 Microsoft: While C# is Microsoft's primary programming language, Java is used in various contexts within Microsoft, including Minecraft, Azure services, and more.
